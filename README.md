@@ -6,7 +6,7 @@
       <p>Source code for the talk <b>"You know the REST, now it's time for Pest!"</b>.</p>
       <p><i>Testing an application which consumes external resources (APIs) may face some restrictions such as: Cost per request, rate limit, no sandbox, among others. In this talk, I present my way of testing APIS with Pest and Bypass.</i></p>
       <p>🗓️ Pest Meetup #1 - Jun, 2021</p>
-      <p>📺 <a href="https://www.youtube.com/watch?v=q_8kRlAIyms" target="_blank">Watch it!</a></p>
+      <p>📺 <a href="https://youtu.be/q_8kRlAIyms?t=2101" target="_blank">Watch it!</a></p>
     </td>
   </tr>
 </table>
@@ -115,5 +115,5 @@ My setup for this talk was:
 ## Credits
 
 - [Pest PHP](https://pestphp.com) by [Nuno Maduro](https://github.com/nunomaduro).
-- [Bypass for PHP](https://pestphp.com) by [Leandro Henrique](https://github.com/emtudo).
+- [Bypass for PHP](https://bypassforphp.com) by [Leandro Henrique](https://github.com/emtudo).
 - Presentantion slide by [HiSlide.io](https://www.hislide.io).
