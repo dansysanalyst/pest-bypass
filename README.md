@@ -13,13 +13,13 @@
 
 ## Requirements
 
-- PHP 8.0+
+- PHP 8.1+
 - [Git](https://github.com/git-guides/install-git)
 - [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
 - Using:
-    - [Laravel 8x](https://laravel.com/docs/8.x/)
-    - [Pest PHP](https://pestphp.com)
-    - [Bypass for PHP](https://bypassforphp.com)
+  - [Laravel 10x](https://laravel.com/docs/10.x/)
+  - [Pest PHP](https://pestphp.com)
+  - [Bypass for PHP](https://bypassforphp.com)
 
 ## Get started
 
@@ -64,7 +64,6 @@ php artisan serve
 ```
 
 Running the command above should produce an output like: `Starting Laravel development server: http://127.0.0.1:8000`.
-
 
 Open the file `app/Services/TourigaPhoneService.php` and verify that the Base URL matches the one being served by the Laravel development server. The variable `$baseUrl` must end with `/api`.
 
